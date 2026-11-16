@@ -66,11 +66,12 @@ The project demonstrates practical skills in electronic circuit design, schemati
 
 ## Project Files
 
-- `Schematic_7805-Voltage-Regulator_2026-11-15.pdf` – Circuit schematic
-- `BOM_7805-Voltage-Regulator_2026-11-15 (2)(1).csv` – Bill of Materials
-- `Gerber_7805-Voltage-Regulator_PCB_7805-Voltage-Regulator_2_2026-11-15.zip` – PCB manufacturing files
-- `PCB_3D_View.png` – 3D PCB visualization
+## Project Files
 
+- [Circuit Schematic (PDF)](Schematic_7805-Voltage-Regulator_2026-11-15.pdf)
+- [Bill of Materials (CSV)](<BOM_7805-Voltage-Regulator_2026-11-15 (2)(1).csv>)
+- [PCB Gerber Files (ZIP)](Gerber_7805-Voltage-Regulator_PCB_7805-Voltage-Regulator_2_2026-11-15.zip)
+- [PCB 3D View](PCB_3D_View.png)
 *Update these filenames if you rename the files in your repository.*
 
 ## Learning Outcomes
